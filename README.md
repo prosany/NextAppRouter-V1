@@ -4,6 +4,7 @@ You can clone and use the template
 
 ## Getting Started
 
+### Clone the application
 First, clone the template from github:
 
 ```bash
