@@ -3,7 +3,7 @@
 You can clone and use the template.
 
 ## Getting Started
-Before doing anything, make sure you have [Node.js](https://nodejs.org/en/download){target="_blank"} installed on your machine. Node.js v18 or later is required.
+Before doing anything, make sure you have [Node.js](https://nodejs.org/en/download) installed on your machine. Node.js v18 or later is required.
 
 ### Clone the application
 To clone the template from GitHub, open any terminal and run this:
