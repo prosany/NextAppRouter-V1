@@ -14,7 +14,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={`${asap.variable}`}>{children}</body>
+      <body className={`${asap.variable}`}>
+        <h1>Login Layout</h1>
+        {children}
+      </body>
     </html>
   );
 }
