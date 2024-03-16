@@ -5,7 +5,7 @@ You can clone and use the template
 ## Getting Started
 
 ### Clone the application
-First, clone the template from github:
+To clone the template from github, open any terminal and run this:
 
 ```bash
 git clone https://github.com/prosany/NextAppRouter-V1.git
